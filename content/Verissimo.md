@@ -1,0 +1,1 @@
+![](attachments/verissimo-omissos.png)
