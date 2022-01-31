@@ -32,6 +32,3 @@ Heading 6 text
 - Item 5
 
 ## Links
-
-* Relative: [Codeblock](/codeblock)
-* Absolute: [Demo](https://learn.hasura.io/graphql/react)

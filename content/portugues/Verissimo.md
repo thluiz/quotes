@@ -1,1 +1,1 @@
-![](attachments/verissimo-omissos.png)
+![](./attachments/verissimo-omissos.png)
