@@ -1,1 +1,6 @@
-* Relative: [Do we stand at the precipice of radical change?](./noah-smith/do-we-stand-at-the-precipice-of-radical-change)
+* [General](./general)
+  * [Stoicism](./general#stoicism)
+  * [Programming](./general#programming)
+  * [Mandela](./general#nelsonmandela)
+* [Noah Smith](./noah-smith)
+  * [Do we stand at the precipice of radical change?](./noah-smith/do-we-stand-at-the-precipice-of-radical-change)
