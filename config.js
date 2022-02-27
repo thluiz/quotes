@@ -1,7 +1,7 @@
 const config = {
   gatsby: {
     pathPrefix: '/',
-    siteUrl: 'https://hasura.io',
+    siteUrl: 'https://quotes.thluiz.com',
     gaTrackingId: null,
     trailingSlash: false,
   },
