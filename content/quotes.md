@@ -2,5 +2,5 @@
 title: "Quotes"
 ---
 
-* [Development](/development)
-* [humanities](/humanities)
+* [Development](/quotes/development)
+* [humanities](/quotes/humanities)

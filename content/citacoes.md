@@ -2,5 +2,5 @@
 title: "Citações"
 ---
 
-* [Simas](/portugues/Simas)
-* [Verissimo](/portugues/Verissimo)
+* [Simas](/citacoes/Simas)
+* [Verissimo](/citacoes/Verissimo)
