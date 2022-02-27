@@ -2,5 +2,6 @@
 title: "Citações"
 ---
 
+* [Linha do Trem](/citacoes/linha-do-trem)
 * [Simas](/citacoes/Simas)
-* [Verissimo](/citacoes/Verissimo)
+* [Veríssimo](/citacoes/Verissimo)
