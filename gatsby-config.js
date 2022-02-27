@@ -16,7 +16,7 @@ const plugins = [
     resolve: "gatsby-source-filesystem",
     options: {
       name: "docs",
-      path: `${__dirname}/quotes/`
+      path: `${__dirname}/content/`
     }
   },
   {
